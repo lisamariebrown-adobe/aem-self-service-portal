@@ -1,0 +1,8 @@
+.salesforce-cases.block>div:first-child {
+  display: none;
+}
+
+.salesforce-cases.block .col-6 {
+  border-bottom: #000000 solid 1px;
+  padding-bottom: 10px;
+}
